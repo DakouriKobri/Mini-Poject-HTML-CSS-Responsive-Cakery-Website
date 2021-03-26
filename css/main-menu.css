@@ -1,0 +1,28 @@
+.main-menu {
+    text-align: center;
+    margin-bottom: 9px;
+}
+
+.main-menu a{
+    color: #553814;
+    padding: var(--space-small);
+    
+}
+
+.main-menu a:hover {
+    background-color: #553814;
+    color: #f5edf0;   
+}
+
+.myHeader{
+  text-align: center;
+}
+
+.logo{
+  border-radius: 100px;
+  border: solid #553814;
+  width: 100px;
+  height: auto;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
